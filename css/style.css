@@ -1,0 +1,10 @@
+.style h1 {
+    color: green;
+}
+
+.style p {
+    background-color: tomato;
+}
+body {
+    background-color: rgb(216, 192, 248);
+}
